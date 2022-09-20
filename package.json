@@ -1,0 +1,20 @@
+{
+  "name": "launchcode",
+  "version": "1.0.0",
+  "description": "Lauchcode Challenge - WetBat",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "launchcode",
+    "wetbat"
+  ],
+  "author": "Alessandra Borges",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.8.0"
+  }
+}
